@@ -1,0 +1,21 @@
+.app {
+	text-align: center;
+}
+
+.app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	background-color: #282c34;
+}
+
+.container {
+	width: 16rem;
+	height: 25rem;
+	border-radius: 10px;
+	border: 10px solid #0f0f0f;
+	background-color: #0f0f0f;
+}
